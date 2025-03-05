@@ -1,9 +1,6 @@
 # Bem-vindo(a) ao perfil do Victor Hugo!
 ## Sobre Mim:
-<br>
 <p>Sou estudante do segundo ano do Ensino Médio no Colégio Técnico da UTFPR – Campus Campo Mourão. Aos 16 anos, estou sempre em busca de aprimorar meus conhecimentos, explorando áreas como tecnologia, ciências exatas e inovação. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo.<p/>
-<br>
-
  <div>
    <a href="https://github.com/Victor-Hugo-Freire">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
