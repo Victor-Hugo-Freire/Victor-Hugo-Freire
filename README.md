@@ -1,4 +1,8 @@
 # Bem-vindo(a) ao perfil do Victor Hugo!
+
+**`Estudante`**
+
+
 ## Sobre Mim:
 Tenho 16 anos. Sou estudante do segundo ano do Ensino Médio no Colégio Técnico da UTFPR – Campus Campo Mourão. Estou sempre em busca de aprimorar meus conhecimentos, explorando áreas como tecnologia, ciências exatas e inovação. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo.
 
@@ -13,6 +17,7 @@ Tenho 16 anos. Sou estudante do segundo ano do Ensino Médio no Colégio Técnic
   <img align="center" alt="REACT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />      
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TAILWINDCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
  
 
