@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao perfil do Victor Hugo!
 ## Sobre Mim:
-Sou estudante do segundo ano do Ensino Médio no Colégio Técnico da UTFPR – Campus Campo Mourão. Aos 16 anos, estou sempre em busca de aprimorar meus conhecimentos, explorando áreas como tecnologia, ciências exatas e inovação. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo.
+Tenho 16 anos. Sou estudante do segundo ano do Ensino Médio no Colégio Técnico da UTFPR – Campus Campo Mourão. Estou sempre em busca de aprimorar meus conhecimentos, explorando áreas como tecnologia, ciências exatas e inovação. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo.
 
  <div>
    <a href="https://github.com/Victor-Hugo-Freire">
