@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Victor Hugo 😁
+## Bem-vindo(a) ao perfil do Victor Hugo!
 
  <div>
    <a href="https://github.com/Victor-Hugo-Freire">
