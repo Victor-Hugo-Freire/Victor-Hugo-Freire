@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Victor Hugo e tenho 16 anos. Sou estudante do segundo ano do Ensino Médio na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão. Estou sempre em busca de aprimorar meus conhecimentos. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo. **Sinta-se à vontade para entrar em contato pelo meu [Email](mailto:victor.torugo.freire@gmail.com)**
+Me chamo Victor Hugo Freire Ribeiro e tenho 16 anos. Sou estudante do segundo ano do Ensino Médio na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão. Estou sempre em busca de aprimorar meus conhecimentos. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo. **Sinta-se à vontade para entrar em contato pelo meu [Email](mailto:victor.torugo.freire@gmail.com)**
 
 --- 
 
@@ -61,7 +61,7 @@ Me chamo Victor Hugo e tenho 16 anos. Sou estudante do segundo ano do Ensino Mé
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo-Freire&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
