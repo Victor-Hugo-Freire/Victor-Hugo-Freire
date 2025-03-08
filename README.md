@@ -51,7 +51,7 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 16 anos. **Sou estudante do segund
 
    ### 📊 Estatísticas
 
-<p>
+<div align="left">
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -65,7 +65,7 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 16 anos. **Sou estudante do segund
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo-Freire&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake-dark.svg">
