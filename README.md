@@ -51,23 +51,20 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 16 anos. **Sou estudante do segund
 
    ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 6px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-Freire&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img
-    align="left"
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo-Freire&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/v1ih">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/v1ih">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo-Freire&layout=compact&langs_count=6&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake-dark.svg">
