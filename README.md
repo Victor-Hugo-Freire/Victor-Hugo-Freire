@@ -9,7 +9,7 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 16 anos. **Sou estudante do segund
 ### 🤖 Linguagens e Tecnologias
   <img
    align="left"
-   style="padding-right: 10px;"
+   style="padding-right: 5px;"
    alt="Js"
    height="30"
    width="40"
@@ -17,14 +17,14 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 16 anos. **Sou estudante do segund
    
   <img
    align="left"
-   style="padding-right: 10px;" 
+   style="padding-right: 5px;" 
    alt="REACT"
    height="30"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
    
   <img
    align="left"
-   style="padding-right: 10px;" 
+   style="padding-right: 5px;" 
    alt="HTML"
    height="30"
    width="40" 
@@ -32,39 +32,14 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 16 anos. **Sou estudante do segund
    
   <img 
    align="left"
-   style="padding-right: 10px;" 
+   style="padding-right: 5px;" 
    alt="CSS"
    height="30"
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
-  <img
-   align="left"
-   style="padding-right: 10px;" 
-   alt="TAILWINDCSS" 
-   height="30" 
-   width="40" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-   
    <br>
    <br>
-
-   ### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo-Freire&layout=compact&langs_count=6&theme=dark"/>
-      </a>
-    </td>
-  </tr>
-</table>
  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake-dark.svg">
