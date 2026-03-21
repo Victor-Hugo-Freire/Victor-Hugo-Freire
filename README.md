@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil!
 
-**`Estudante`**
+**`Estagiário`**
 
 Me chamo *Victor Hugo Freire Ribeiro* e tenho 17 anos. **Sou estudante do terceiro ano do Ensino Médio na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão**. Estou sempre em busca de aprimorar meus conhecimentos. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo. **Sinta-se à vontade para entrar em contato pelo meu [Email](mailto:victor.hugo.freir@gmail.com)**
 
@@ -37,7 +37,31 @@ Me chamo *Victor Hugo Freire Ribeiro* e tenho 17 anos. **Sou estudante do tercei
    height="30"
    width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
+
+   <img 
+   align="left"
+   style="padding-right: 5px;" 
+   alt="NextJs"
+   height="35"
+   width="45"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+
+   <img 
+   align="left"
+   style="padding-right: 5px;" 
+   alt="Typescript"
+   height="30"
+   width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+
+   <img 
+   align="left"
+   style="padding-right: 5px;" 
+   alt="Postgresql"
+   height="35"
+   width="45"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+
    <br>
    <br>
  
