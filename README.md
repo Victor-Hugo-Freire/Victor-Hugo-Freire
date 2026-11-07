@@ -2,7 +2,7 @@
 
 **`Estagiário`**
 
-Me chamo *Victor Hugo Freire Ribeiro* e tenho 17 anos. **Sou estudante do terceiro ano do Ensino Médio na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão**. Estou sempre em busca de aprimorar meus conhecimentos. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo. **Sinta-se à vontade para entrar em contato pelo meu [Email](mailto:victor.hugo.freir@gmail.com)**
+Me chamo *Victor Hugo Freire Ribeiro* e tenho 18 anos. **Sou estudante do terceiro ano do Ensino Médio na Universidade Tecnológica Federal do Paraná, UTFPR – Campus Campo Mourão**. Estou sempre em busca de aprimorar meus conhecimentos. Tenho interesse em desafios intelectuais e projetos que estimulem o aprendizado contínuo. **Sinta-se à vontade para entrar em contato pelo meu [Email](mailto:victor.hugo.freir@gmail.com)**
 
 --- 
 
